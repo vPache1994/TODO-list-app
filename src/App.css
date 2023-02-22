@@ -4,7 +4,11 @@
   display:flex;
   justify-content: center;
   align-items: center;
-  background-color: aliceblue;
+}
+.tarjeta{
+  -webkit-box-shadow: -2px 3px 13px -1px rgba(46,45,46,0.4);
+  -moz-box-shadow: -2px 3px 13px -1px rgba(46,45,46,0.4);
+  box-shadow: -2px 3px 13px -1px rgba(46,45,46,0.4);
 }
 
 
